@@ -1,0 +1,1 @@
+{"connector_type": "mariadb", "host": "127.0.0.1", "db": "thedatabase", "user": "root", "password": "password"}
